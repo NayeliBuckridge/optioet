@@ -1,0 +1,26 @@
+{
+  "name": "optioet",
+  "version": "1.0.0",
+  "description": "ezuikit javascript for npm",
+  "main": "ezuikit.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NayeliBuckridge/optioet.git"
+  },
+  "keywords": [
+    "exercitationem",
+    "molestiae"
+  ],
+  "files": [
+    "ezuikit.js",
+    "CHANGELOG.md",
+    "ezuikit_static"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NayeliBuckridge/optioet.git/issues"
+  },
+  "homepage": "https://github.com/NayeliBuckridge/optioet.git",
+  "author": "AshaProhaska"
+}
